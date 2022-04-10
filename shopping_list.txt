@@ -1,5 +1,5 @@
 bread x1
 milk x2
 cheese x4
-ham x8
+meat x8
 ketchup x16
