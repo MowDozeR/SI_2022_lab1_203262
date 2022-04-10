@@ -1,5 +1,10 @@
 bread x1
 milk x3
 cheese x4
+<<<<<<< HEAD
 ham x8
 ketchup x17
+=======
+meat x8
+ketchup x16
+>>>>>>> branch2
